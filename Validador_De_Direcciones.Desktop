@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Validador_De_Direcciones
+Comment=
+Exec=gnome-terminal -- python3.6 /home/gus/Documents/Validador-de-direcciones-Gobierno-Nacional/validador_nomenclador_de_direcciones_gobierno_final.py
+Icon=/home/gus/Documents/Validador-de-direcciones-Gobierno-Nacional/Nomenclador_De_Direcciones.png
+Terminal=false
+Type=Application
+Categories=Application
