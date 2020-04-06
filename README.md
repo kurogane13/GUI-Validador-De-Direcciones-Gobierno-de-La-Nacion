@@ -1,4 +1,8 @@
 # GUI-Validador-De-Direcciones-Gobierno-de-La-Nacion
+----------------------------------------------------------------------------------------------------------------
+
+Version Grafica del Buscador y Validador de direcciones Gobierno Nacional programado en python Autor: Gustavo Wydler Azuaga - 06/04/2020
+----------------------------------------------------------------------------------------------------------------
 
 NOTA: Puede ver una demostracion del programa, dentro de la carpeta: 
 
@@ -7,11 +11,6 @@ Videos_Tutoriales
 Para ver una fotografia del programa, acceda a la carpeta: 
 
 Capturas_pantalla
-----------------------------------------------------------------------------------------------------------------
-
-Version Grafica del Buscador y Validador de direcciones Gobierno Nacional programado en python
-
-Autor: Gustavo Wydler Azuaga - 06/04/2020
 
 ----------------------------------------------------------------------------------------------------------------
 
