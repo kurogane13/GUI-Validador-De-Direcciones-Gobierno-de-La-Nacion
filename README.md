@@ -1,6 +1,12 @@
 # GUI-Validador-De-Direcciones-Gobierno-de-La-Nacion
 
-NOTA: Puede ver una demostracion del programa, dentro de la carpeta: Videos_Tutoriales
+NOTA: Puede ver una demostracion del programa, dentro de la carpeta: 
+
+Videos_Tutoriales
+
+Para ver una fotografia del programa, acceda a la carpeta: 
+
+Capturas_pantalla
 ----------------------------------------------------------------------------------------------------------------
 
 Version Grafica del Buscador y Validador de direcciones Gobierno Nacional programado en python
