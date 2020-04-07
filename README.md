@@ -16,7 +16,7 @@ Capturas_pantalla
 
 Modo de setup y Uso:
 
--Descargar el repositorio Desde github, por linea de comando (Linux): wget 
+-Descargar el repositorio Desde github, por linea de comando (Linux): git clone 
 
 -Instalar pip3 para python: sudo apt-get install python3-pip (si no esta instalado) 
 
